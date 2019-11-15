@@ -1,5 +1,5 @@
 var STATE_FIP = "25";
-var BASE_URL = "https://api.census.gov/data/2015/acs1";
+var BASE_URL = "https://api.census.gov/data/2015/acs/acs1";
 
 var COUNTY_FIPS = {
   "barnstable": "001",
